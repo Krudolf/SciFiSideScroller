@@ -1,0 +1,2 @@
+C:\Users\krudo\Documents\Unreal Projects\SciFiSideScroller\SciFiSideScroller\Intermediate\Build\Win64\UE4Editor\Development\SciFiSideScroller\Definitions.SciFiSideScroller.h
+c:\users\krudo\documents\unreal projects\scifisidescroller\scifisidescroller\source\scifisidescroller\SciFiSideScroller.h

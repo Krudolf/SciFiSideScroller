@@ -1,0 +1,9 @@
+C:\Users\krudo\Documents\Unreal Projects\SciFiSideScroller\SciFiSideScroller\Intermediate\Build\Win64\UE4Editor\Development\SciFiSideScroller\Definitions.SciFiSideScroller.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\krudo\Documents\Unreal Projects\SciFiSideScroller\SciFiSideScroller\Source\SciFiSideScroller/SciFiSideScrollerCharacter.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+c:\users\krudo\documents\unreal projects\scifisidescroller\scifisidescroller\intermediate\build\win64\ue4editor\inc\scifisidescroller\SciFiSideScrollerCharacter.generated.h

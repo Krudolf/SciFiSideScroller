@@ -1,0 +1,3 @@
+C:\Users\krudo\Documents\Unreal Projects\SciFiSideScroller\SciFiSideScroller\Intermediate\Build\Win64\UE4Editor\Development\SciFiSideScroller\Definitions.SciFiSideScroller.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

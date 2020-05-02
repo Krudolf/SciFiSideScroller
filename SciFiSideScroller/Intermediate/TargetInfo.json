@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SciFiSideScroller",
+			"Path": "C:\\Users\\krudo\\Documents\\Unreal Projects\\SciFiSideScroller\\SciFiSideScroller\\Source\\SciFiSideScroller.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SciFiSideScrollerEditor",
+			"Path": "C:\\Users\\krudo\\Documents\\Unreal Projects\\SciFiSideScroller\\SciFiSideScroller\\Source\\SciFiSideScrollerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

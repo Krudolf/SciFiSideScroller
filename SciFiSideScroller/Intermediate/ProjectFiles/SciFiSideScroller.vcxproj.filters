@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SciFiSideScroller.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{33425C9E-ECB8-4029-BAA7-7F631DAB13CA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SciFiSideScroller.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SciFiSideScrollerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4F8EE4A8-451B-4369-965D-E01096B7E5EB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SciFiSideScroller">
+      <UniqueIdentifier>{4AC9A782-825F-4E07-9E0F-E8C74A4D19C9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SciFiSideScroller\SciFiSideScroller.Build.cs">
+      <Filter>Source\SciFiSideScroller</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SciFiSideScroller\SciFiSideScroller.cpp">
+      <Filter>Source\SciFiSideScroller</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SciFiSideScroller\SciFiSideScroller.h">
+      <Filter>Source\SciFiSideScroller</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SciFiSideScroller\SciFiSideScrollerCharacter.cpp">
+      <Filter>Source\SciFiSideScroller</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SciFiSideScroller\SciFiSideScrollerCharacter.h">
+      <Filter>Source\SciFiSideScroller</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SciFiSideScroller\SciFiSideScrollerGameMode.cpp">
+      <Filter>Source\SciFiSideScroller</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SciFiSideScroller\SciFiSideScrollerGameMode.h">
+      <Filter>Source\SciFiSideScroller</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

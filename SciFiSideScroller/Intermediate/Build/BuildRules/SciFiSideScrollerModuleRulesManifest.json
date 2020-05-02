@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\krudo\\Documents\\Unreal Projects\\SciFiSideScroller\\SciFiSideScroller\\Source\\SciFiSideScroller\\SciFiSideScroller.Build.cs",
+		"C:\\Users\\krudo\\Documents\\Unreal Projects\\SciFiSideScroller\\SciFiSideScroller\\Source\\SciFiSideScroller.Target.cs",
+		"C:\\Users\\krudo\\Documents\\Unreal Projects\\SciFiSideScroller\\SciFiSideScroller\\Source\\SciFiSideScrollerEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}
